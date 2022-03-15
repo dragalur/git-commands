@@ -1,2 +1,2 @@
 const first = 'first commit';
-const second = 'second commit again';
+const second = 'second commit again--';
