@@ -1,2 +1,2 @@
 const first = 'first commit';
-const ammentWithFirstCommitThatHasBeenPushed = 'ammend';
+const second = 'second commit';
