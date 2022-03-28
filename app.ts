@@ -1,2 +1,2 @@
 const first = 'first commit';
-const second = 'second commit again-- all';
+const am = 'am commit';
